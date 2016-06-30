@@ -1,0 +1,30 @@
+@charset "UTF-8";
+html {
+  font-size: 14px;
+  font-family: "微软雅黑", "宋体", Arial, Helvetica, sans-serif;
+}
+
+a {
+  display: inline-block;
+  text-decoration: none;
+}
+
+a:focus {
+  outline: none;
+}
+
+.panel {
+  max-width: 1200px;
+  margin: auto;
+  width: 100%;
+  height: auto;
+}
+
+.m-v-10 {
+  margin-top: 10px !important;
+  margin-bottom: 10px !important;
+}
+
+.p20 {
+  padding: 20px;
+}
