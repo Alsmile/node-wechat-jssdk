@@ -1,6 +1,6 @@
 {
   "name": "node-wechat-jssdk",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Wechat jssdk integration with nodejs",
   "main": "index.js",
   "scripts": {
@@ -20,7 +20,7 @@
   "bugs": {
     "url": "https://github.com/Alsmile/node-wechat-jssdk/issues"
   },
-  "homepage": "https://github.com/Alsmile/node-wechat-jssdk#readme",
+  "homepage": "https://github.com/Alsmile/node-wechat-jssdk",
   "dependencies": {
     "crypto": "0.0.3",
     "redis": "^2.6.2",
