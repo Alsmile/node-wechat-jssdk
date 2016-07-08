@@ -30,9 +30,12 @@ var config = {
 
 
 #运行环境
-微信pc端或者下载 [微信web开发者工具](http://mp.weixin.qq.com/wiki?t=resource/res_main&id=mp1455784140&token=&lang=zh_CN)  
+微信pc端或者下载 [微信web开发者工具](http://mp.weixin.qq.com/wiki?t=resource/res_main&id=mp1455784140&token=&lang=zh_CN)   
 
-##使用：  
+#运行demo
+执行npm install安装必要依赖环境后，直接运行 node server 即可运行demo 。  
+
+#使用：  
 参考demo文件夹。（运行demo需要先将demo下的config/config_demo.js重命名为config.js,按照格式要求配置相关选项）  
 
  ``` 
